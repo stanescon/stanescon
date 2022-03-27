@@ -16,7 +16,7 @@ I'm Natália Jordana;
 ## Contact:
 
 <div>
-<a href="https://www.linkedin.com/in/nat%C3%A1lia-stanescon-6a6056232/">
+<a href="https://www.linkedin.com/in/nataliajordana/">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" align="center" height="50" width="60">
 </a>
 </div>
