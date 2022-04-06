@@ -5,6 +5,7 @@
     <br>
     Hi there 👋 
     I'm Natália Jordana; <br>
+    <br>
     - 🔭 I’m currently doing a doctorate in mathematics. <br>
     - 🌱 I’m currently learning HTML, CSS, JS and TS. <br>
     - 🎥 In my free time I like to watch movies and series. <br> 
