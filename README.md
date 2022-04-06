@@ -1,7 +1,7 @@
 
 
 <div style="display: inline_block"> 
-    <img src="https://user-images.githubusercontent.com/99998936/162071360-93f10533-bf9d-47cc-927c-6107f95b0ced.png" align="right" width="150"> 
+    <img src="https://user-images.githubusercontent.com/99998936/162071360-93f10533-bf9d-47cc-927c-6107f95b0ced.png" align="right" width="150" style="margin-right: 70px"> 
     <br>
     Hi there 👋 
     I'm Natália Jordana; <br>
