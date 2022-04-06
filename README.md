@@ -1,12 +1,15 @@
-Hi there 👋
-I'm Natália Jordana;
 
-- 🔭 I’m currently doing a doctorate in mathematics.
-- 🌱 I’m currently learning HTML, CSS, JS and TS 
-- 🎥 In my free time I like to watch movies and series.
-- 😻 I love cats
-- ❤️ I love math
 
+<div style="display: inline_block"> 
+    Hi there 👋 
+    I'm Natália Jordana; <br>
+    - 🔭 I’m currently doing a doctorate in mathematics. <br>
+    - 🌱 I’m currently learning HTML, CSS, JS and TS. <br>
+    - 🎥 In my free time I like to watch movies and series. <br> 
+    - 😻 I love cats <br>
+    - ❤️ I love math. <br>
+  <img src="https://user-images.githubusercontent.com/99998936/162071360-93f10533-bf9d-47cc-927c-6107f95b0ced.png" align="right" width="150"> 
+</div>
 
 <div>
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=stanescon&theme=aura_dark&show_icons=true">
@@ -34,3 +37,6 @@ I'm Natália Jordana;
   
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" align="center" height="50" width="60">
 </div>
+
+
+
