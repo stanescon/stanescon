@@ -2,6 +2,7 @@
 
 <div style="display: inline_block"> 
     <img src="https://user-images.githubusercontent.com/99998936/162071360-93f10533-bf9d-47cc-927c-6107f95b0ced.png" align="right" width="150"> 
+    <br>
     Hi there 👋 
     I'm Natália Jordana; <br>
     - 🔭 I’m currently doing a doctorate in mathematics. <br>
@@ -9,6 +10,8 @@
     - 🎥 In my free time I like to watch movies and series. <br> 
     - 😻 I love cats <br>
     - ❤️ I love math. <br>
+    <br>
+    <br>
 </div>
 
 <div>
